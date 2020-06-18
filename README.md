@@ -1,2 +1,0 @@
-# Appiness
-Created with CodeSandbox
