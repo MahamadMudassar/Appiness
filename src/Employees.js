@@ -26,7 +26,7 @@ class Employees extends React.Component {
         <header style={{ backgroundColor: "black", height: "80px" }}>
           <div style={{ float: "left}", paddingTop: "25px", color: "pink" }}>
             {" "}
-            <h2>Appiness Employees page</h2>
+            <h2>My Company Employees page</h2>
           </div>
           <div style={{ float: "right" }}>
             <Link className="logOut" to="/Logout">
